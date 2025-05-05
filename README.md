@@ -1,4 +1,4 @@
-**Recurrent Neural Networks and Stock Price Prediciton Project (Exam 3)**
+**Recurrent Neural Networks and Stock Price Prediction Project (Exam 3)**
 
 Exam Includes: 
 - Fetched stocks from Yahoo Finance, XGBoost classifier, Time series split, CNN, MLP, GRU, GeLU (has a greater advantage for stocks than ReLU based activation functions), ReLU, sigmoid, softmax, and tanh activations, categorical_crossentropy, and additional insight into accuracy and RMSE via log bar graphs
